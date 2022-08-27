@@ -11,7 +11,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.4" />
     <PackageReference Include="Microsoft.AspNetCore.Owin" Version="3.1.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
-    <PackageReference Include="Microsoft.Owin" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Owin" Version="4.1.1" />
     <PackageReference Include="Microsoft.Owin.Cors" Version="4.1.0" />
     <PackageReference Include="Microsoft.Owin.Host.SystemWeb" Version="4.1.0" />
     <PackageReference Include="Microsoft.Owin.Security.OAuth" Version="4.1.0" />
